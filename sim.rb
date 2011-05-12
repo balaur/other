@@ -9,7 +9,6 @@ queue = 0
 received_requests = 0
 rejected_requests = 0
 queue_average = 0
-i = 0
 
 # idle all servers
 for i in (1..number_of_servers)
